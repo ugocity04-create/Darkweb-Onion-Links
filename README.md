@@ -60,6 +60,8 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - Systemli Home: http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/index.html
 - Twitter: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
 - Reddit: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
+- Dread: https://dreadohblesmagfagqup24vw7catlvmqhhce5itz7wxr4vffgemjzaad.onion
+
 
 ## Government
 - US Central Intelligence Agency: http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/index.html
