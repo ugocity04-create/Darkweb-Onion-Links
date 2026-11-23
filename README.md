@@ -61,6 +61,7 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - Twitter: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
 - Reddit: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
 - Dread: https://dreadohblesmagfagqup24vw7catlvmqhhce5itz7wxr4vffgemjzaad.onion
+- wsschat: http://iliurdpsynwcmtxmsjuz4jdx3f7gfotaeeni5x5lveqknoakne4edjyd.onion/
 
 
 ## Government
